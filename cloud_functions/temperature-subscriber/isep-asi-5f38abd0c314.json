@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "isep-asi",
+  "private_key_id": "5f38abd0c3149654423d18e56acd172e43cadafe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxUuG69IvUK9g9\nEZI3p7pcvadxl6IpKkssI6aNz/Asbd2P8vXOi3k358N2ZEB5sagrFLAfKV4T6XTk\n3ZUjxmNlz3ZuhBtd0/xQ1iOPawnHDsRv7/I8qsJpt/6nxw+oMh3Wkz7k5rrX5ccV\nynMes1+XrFJn03PGGSnuoah51jpFCfNJEt6n717BOxvI4RC+i+fMMJgjjnAsSUi0\npm6FDlXhxNT0Ah5bdLrWSs2XQF/7AsUKw4x/dTCapCfdB4J3ebI70CScsntB4Jnu\nR1WpZfOrvLLD/8m1qhQdU9UAycY7i3UOKNfzH9RDgUsUuEaDSwsAP763al5SJyD7\nwvbmD58xAgMBAAECggEAP3n8GzeRAjWoMuQI0G/jgtp2DViD1I0l6c3U1Q+BjsY1\nVdRkGLiyIWTqkp0rInd7Ex3ld8TjVJx/XWX1gUwBQDnyXn6MTkFg6IhzIRnYIA5/\n2CvGzXNjIPi/WLVxJl5MX/EqRX51Xi24EMDISCaJefVfVaUWmmBrGbRXAvk5KYhC\nOXtH3qXkJM8+VoGRqnGOqXM9xM3QUFSBQL7sf7TgUeQ7DvQGRFx96skJ3DT73Glf\nY/nbqek7NUlGWw5eGMX0ybqc3iUpyqcwKlrgR2dJm3umC/c8OIEEdaRyXkVu2mHf\nyhpaRAJpJcfYJXfvslG7TEJVS7Rfr2+K2vyPFhSRMwKBgQD83Giv+av/58metLxu\neaLx7Ca23HLn3DpqmuC1gYkXV9kMRG03uC9pj8HZFpHNJ9dRYux8BMZzmzueZAry\nslPBh2s5Xrtm42nZZrCAHHqev/jW1mtS/0FHl/AmXBW6VZyoZgmylh3Jn0KlaOAk\n2hQT+tBSNWRhsvpeLnhGyQHdowKBgQD0Uc6/FnzFTMQyNrV/bB6PyveabOpnxAkc\nnhKZmmGFZNLjSatDMfFix7ZpBfehJG2XYXXBKKhSM0BqlCUQY1Ww6WO+icx1qiZP\nSWMo8lULcbZtKBgUrG0iw0melE+zLyRt7QSy/pBQc2qc8wstdLY/JImiVyAQ3aW+\nVNzxGsO1GwKBgHyMsIAlkeQuLrCew8YC4hEZygP+WBb+8kM6YH7m/DjkS4PwXH+6\nmJf9eHVO2ahc/IEZIfUAgSPGjbo5+u6KihjkdBtBHzvRvnyYSU4BOSDi3FYuLZUn\nJ+d03pR2fTlYHB8Si6pMqQV8Dd7d5rIgPQ2OWHh11ikNeKdVamcrcWDTAoGBAKpH\nSfzMQ3GPKz6D+sMwK6y0HRW3yzc+3crgML51Znp95q0abw6KBF6AKpXP3uKkbO0Q\ns+1H1OhVaBPf5GUjllmSkD3/9Ewdpk2kLEQhgTxUqHwzcXUXJ4kO6oRngZS0yoMC\nqj/GQ/aOOkPg8G1h5pLjeDl415Rpplac9s/jg3r5AoGBANqLKnkP9OAvLBhdwqy6\nDEO9Q65bN7wO3ZeAPQTb2IvihXm42+/C+ovDkaIqMWHQq9X+KYsTrspMtRFYv4Ii\n4ECB3ONXAAtvPDSFeQ4nW3mUDCuddHQwDv1Of2/WuW77e34Bh4G1jnDAZPR++XoK\n3CNU/OyMFYYFzjXUXOFpug8F\n-----END PRIVATE KEY-----\n",
+  "client_email": "iot-publisher@isep-asi.iam.gserviceaccount.com",
+  "client_id": "103338779179691757669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iot-publisher%40isep-asi.iam.gserviceaccount.com"
+}

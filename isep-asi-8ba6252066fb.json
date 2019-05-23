@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "isep-asi",
+  "private_key_id": "8ba6252066fbea735ed290a781ba54f6b42da6a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXrTJaXpt0KU4i\n9juwdKiw8cprEKgxqEgDk+qSsG9FHhZL0+Ob8ySEw/J+F58DTmAMqSR2oXXKyIWR\nwksD7cFRPUJ3HStkwbhPv3/WOgaE5YH4x3UDQ9f7E1qgZD1e7jkBWKMlgINBlvyE\nZuTP6CsyRH0V33+aVOtrkqse/RoY+iad+/vNqUAg4XGqr57dEW2/wrkZb/CYTMCd\nO6PCkXh85Ggf6oVkwua23REHl58P4YqoliSs1UosvTHMYEgsLnF9K5tuNb/W9vMq\n4gGDwgwznlzcCD+R7EcIvIyBRsW8dptToFtQpwPwA8z/q8f6PLgSvojmvXsa9/HL\nPxTFWglDAgMBAAECggEAEuEJS3D12IJA/4kL6kLFsdXmuWeGspJHpGpc4DVQeZdC\ndIht5D4Muu8eLSOzidh6NsPhjgKQLtVsCrXXBdN/ec/Y3gqmGWcjZzRm17tmjv7M\n1rJnlihzpwTEWwJ0a8SAbp0hxsvgNTcd5z0Hbflv/FRvXVxG/bwO3CzoBSDBMX/V\nu2hWphQI5MWai8NQunxRCFpr6Vr1JVuFwJd9s1PTUAKfvfeGZmW5MNf9HtSdkWn/\nLImkgI+0dTV1cIpAUgeCIz7vInRSaAFhNo/tTQaSIfiiIqBsVN8yGF5AVVebH2r/\nKX2vK9GvKZCloa4kqQIWNuuP7TWvdFsojHxTlBvVQQKBgQDFfKrfbiDAXlmX96op\nEislqXwsdqMK0hwzocBiNbH2a3IZQxxKuaGWyhbDr2mkv+JLmCThC87+EwSHgXmi\nGzS/V32UNFLKpn/xp+i19jZQn9velis25ArRWTURBhFJag2A4BQqbEuq9UWwyDZg\nTnaT13FSvJvx10IZd7BzxXR4zQKBgQDEndIXpxXhJZSCM/eYLGeNUUAjksSTanJ7\nh6krnpEith/iN7aTcUGg5UoXEX4uAm6zGd+dhhzRrcm87xsCkvKJDcuUMima1qIR\nFE2dU9jrQxT2w6Yq6JowvalakCH4y7uUfoallsBuouByglL6UW5LSDeoCfx7z3hZ\nIfHhV3PKTwKBgBKGs3DqX+Ar+bOr5CaeMbYCxEdXicwGEec2EVolN2Cqi7Wa+hh4\neZQvuRr6Zaqy5YO57hu+g9iJ6C7eEo8Ghlg82OcCUZH5NJ9y5P3M7yN5G6Mx6zPn\nCKzC9Zt3Oj/s1v90BfBE4IRVJgiDf7ZhJfaQi2z7jJWPYAALnl399AMxAoGAHN0i\nW5CO2LegnqCsZ22VYhycctx3+UA2QEZBIoMrwVHFSnttVSXaQZmHj+1kfbKjt61D\ns6ddkbaWmCLt7ynNaytYSJA4pV9++UzmvAL0JE17xWIhgckV4bPmKcJhClo2Vm1g\nrOx9oYBNvOG+9rp/m5OlgAi/RRnHDCa8kJ07BWcCgYAuGLGS0LI7w13ye63BhDRo\n6dwk73kfEor2afvVzHQC9jONjhq9bu59oB8q+YCDI0RoeYgLqK8w2kI355ECTBMU\nGGrU/lbFvUcHdCRe3yM1ShsqLa5c8E8fPLn5C+7/vBPNFUmt1DFNL4isVfYuHVuZ\nACoVguXbB2QY9jxvNTKyiQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "device-creator@isep-asi.iam.gserviceaccount.com",
+  "client_id": "101698242644651040224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/device-creator%40isep-asi.iam.gserviceaccount.com"
+}

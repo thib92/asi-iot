@@ -1,0 +1,9 @@
+bedroom
+bathroom
+living_room
+kitchen
+living_room
+bathroom
+kitchen
+living_room
+bedroom
